@@ -1,0 +1,759 @@
+:root {
+  --bg: #f6f8f7;
+  --card: #ffffff;
+  --text: #14211b;
+  --muted: #55645c;
+  --line: #dce4df;
+  --brand: #0b6b4f;
+  --low: #2e7d32;
+  --low-bg: #e6f3e7;
+  --watch: #8a6100;
+  --watch-bg: #fff3d1;
+  --high: #b3410a;
+  --high-bg: #ffe3d1;
+  --severe: #a1122a;
+  --severe-bg: #fddde2;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0f1613;
+    --card: #17211c;
+    --text: #e8f0ec;
+    --muted: #9db0a6;
+    --line: #2a3a32;
+    --brand: #4fc79c;
+    --low: #7ed381;
+    --low-bg: #1b2f1d;
+    --watch: #f2c14e;
+    --watch-bg: #33290d;
+    --high: #ff9a62;
+    --high-bg: #3a2010;
+    --severe: #ff7b8f;
+    --severe-bg: #3d1119;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  line-height: 1.5;
+}
+
+a {
+  color: var(--brand);
+}
+
+.wrap {
+  max-width: 920px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+.top {
+  background: var(--card);
+  border-bottom: 1px solid var(--line);
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  min-height: 56px;
+}
+
+.brand {
+  font-weight: 700;
+  text-decoration: none;
+  color: var(--text);
+}
+
+.brand span {
+  color: var(--brand);
+}
+
+nav {
+  display: flex;
+  gap: 16px;
+  font-size: 0.95rem;
+}
+
+h1 {
+  font-size: 1.6rem;
+  margin: 24px 0 8px;
+  line-height: 1.2;
+}
+
+h2 {
+  font-size: 1.15rem;
+  margin: 28px 0 8px;
+}
+
+.lead {
+  color: var(--muted);
+  margin: 0 0 16px;
+}
+
+.summary {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+  margin: 16px 0;
+}
+
+.stat {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 10px 12px;
+}
+
+.stat b {
+  display: block;
+  font-size: 1.4rem;
+}
+
+.search {
+  width: 100%;
+  padding: 12px;
+  font-size: 1rem;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--card);
+  color: var(--text);
+  margin-bottom: 12px;
+}
+
+.list {
+  display: grid;
+  gap: 8px;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 12px 14px;
+  text-decoration: none;
+  color: var(--text);
+}
+
+.item:hover {
+  border-color: var(--brand);
+}
+
+.item small {
+  display: block;
+  color: var(--muted);
+}
+
+.badge {
+  font-weight: 700;
+  font-size: 0.85rem;
+  padding: 4px 10px;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+
+.l0 {
+  color: var(--low);
+  background: var(--low-bg);
+}
+.l1 {
+  color: var(--watch);
+  background: var(--watch-bg);
+}
+.l2 {
+  color: var(--high);
+  background: var(--high-bg);
+}
+.l3 {
+  color: var(--severe);
+  background: var(--severe-bg);
+}
+
+.card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 16px;
+  margin: 12px 0;
+}
+
+.btn {
+  display: inline-block;
+  background: var(--brand);
+  color: var(--bg);
+  padding: 10px 16px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+pre {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 12px;
+  overflow-x: auto;
+  font-size: 0.85rem;
+}
+
+code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+
+.foot {
+  color: var(--muted);
+  font-size: 0.85rem;
+  padding-top: 24px;
+  padding-bottom: 40px;
+}
+
+.notice {
+  background: var(--watch-bg);
+  color: var(--text);
+  border-radius: 10px;
+  padding: 12px 14px;
+  margin: 12px 0;
+}
+
+@media (max-width: 480px) {
+  .summary {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Local variant: level 0 means "no reports", NOT "safe", so it is neutral grey. */
+.l0 {
+  color: var(--muted);
+  background: var(--line);
+}
+
+label {
+  display: block;
+  font-weight: 600;
+  margin: 14px 0 6px;
+}
+
+.field {
+  width: 100%;
+  padding: 12px;
+  font-size: 1rem;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--card);
+  color: var(--text);
+  font-family: inherit;
+}
+
+.choice {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  padding: 10px 12px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--card);
+  margin-bottom: 8px;
+  font-weight: 400;
+}
+
+.choice input {
+  margin-top: 4px;
+}
+
+.btn:disabled {
+  opacity: 0.6;
+}
+
+button.btn {
+  border: 0;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-top: 16px;
+}
+
+.ok {
+  background: var(--low-bg);
+  border-radius: 10px;
+  padding: 12px 14px;
+  margin: 12px 0;
+}
+
+fieldset {
+  border: 0;
+  padding: 0;
+  margin: 14px 0 0;
+}
+
+legend {
+  font-weight: 600;
+  padding: 0;
+  margin-bottom: 6px;
+}
+
+/* ---------- Calendar (day-by-day) ---------- */
+.cal {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 4px;
+  table-layout: fixed;
+  margin: 8px 0 16px;
+}
+
+.cal caption {
+  text-align: left;
+  font-weight: 700;
+  padding: 4px 0;
+}
+
+.cal th {
+  font-size: 0.75rem;
+  color: var(--muted);
+  font-weight: 600;
+  text-align: center;
+}
+
+.c {
+  height: 64px;
+  border-radius: 8px;
+  padding: 4px;
+  vertical-align: top;
+  text-align: left;
+  border: 2px solid transparent;
+  position: relative;
+}
+
+.c.empty {
+  background: transparent;
+}
+
+.c .d {
+  font-weight: 700;
+  font-size: 0.9rem;
+}
+
+.c .lv {
+  position: absolute;
+  top: 4px;
+  right: 6px;
+  font-weight: 800;
+  font-size: 0.75rem;
+}
+
+.c .mm {
+  position: absolute;
+  bottom: 4px;
+  left: 6px;
+  font-size: 0.7rem;
+}
+
+/* Less reliable days look less certain: faded with a dashed border. */
+.conf-medium {
+  opacity: 0.92;
+}
+
+.conf-low {
+  opacity: 0.72;
+  border: 2px dashed currentColor;
+}
+
+.legend {
+  color: var(--muted);
+  font-size: 0.85rem;
+  margin: 8px 0 0;
+}
+
+/* ---------- Typical months strip ---------- */
+.months {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 6px;
+  list-style: none;
+  padding: 0;
+  margin: 8px 0;
+}
+
+.mo {
+  border-radius: 8px;
+  padding: 8px 6px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  border: 2px solid transparent;
+  font-size: 0.8rem;
+}
+
+.mo small {
+  opacity: 0.85;
+}
+
+.mo.now,
+.heat .now {
+  border-color: var(--text);
+}
+
+/* ---------- All-states heatmaps ---------- */
+.heat-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--card);
+}
+
+.heat {
+  border-collapse: separate;
+  border-spacing: 2px;
+  font-size: 0.75rem;
+  min-width: 640px;
+}
+
+.heat th {
+  font-weight: 600;
+  padding: 4px;
+  white-space: nowrap;
+}
+
+.heat tbody th {
+  text-align: left;
+  position: sticky;
+  left: 0;
+  background: var(--card);
+  z-index: 1;
+}
+
+.heat .faint {
+  opacity: 0.6;
+}
+
+.h {
+  text-align: center;
+  font-weight: 700;
+  min-width: 34px;
+  height: 26px;
+  border-radius: 4px;
+  border: 2px solid transparent;
+}
+
+@media (max-width: 480px) {
+  .c {
+    height: 56px;
+  }
+  .c .mm {
+    font-size: 0.62rem;
+  }
+  .months {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.btn.alt {
+  background: transparent;
+  color: var(--brand);
+  border: 2px solid var(--brand);
+}
+
+/* ---------- Hazard switch (Flood / Heat) ---------- */
+.switch {
+  display: inline-flex;
+  gap: 4px;
+  padding: 4px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--card);
+  margin: 8px 0 12px;
+}
+
+.switch a {
+  padding: 6px 16px;
+  border-radius: 999px;
+  text-decoration: none;
+  font-weight: 600;
+  color: var(--text);
+}
+
+.switch a.on {
+  background: var(--brand);
+  color: var(--bg);
+}
+
+.badges {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 4px;
+}
+
+/* ---------- Past days, today, heatwaves ---------- */
+.conf-observed {
+  border: 2px dotted currentColor;
+  opacity: 0.85;
+}
+
+.c.today,
+.h.today {
+  border: 2px solid var(--text);
+  opacity: 1;
+}
+
+.wave .d,
+td.wave {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+}
+
+details.past {
+  margin: 12px 0;
+}
+
+details.past summary {
+  cursor: pointer;
+}
+
+details.past summary h2 {
+  display: inline;
+  font-size: 1.05rem;
+}
+
+/* ---------- Local government table ---------- */
+.lga {
+  border-collapse: collapse;
+  width: 100%;
+  min-width: 560px;
+  font-size: 0.9rem;
+}
+
+.lga th,
+.lga td {
+  padding: 8px 10px;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+  vertical-align: middle;
+}
+
+.lga thead th {
+  font-size: 0.75rem;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.lga tbody th {
+  font-weight: 600;
+}
+
+.lga small {
+  color: var(--muted);
+}
+
+.mini {
+  display: inline-flex;
+  gap: 2px;
+}
+
+.mini i {
+  display: block;
+  width: 9px;
+  height: 18px;
+  border-radius: 2px;
+}
+
+.mini i.l0 {
+  background: var(--line);
+}
+
+.mini i.l1 {
+  background: var(--watch);
+}
+
+.mini i.l2 {
+  background: var(--high);
+}
+
+.mini i.l3 {
+  background: var(--severe);
+}
+
+.mini i.wave {
+  box-shadow: 0 2px 0 var(--text);
+}
+
+.today-line {
+  margin: 4px 0 12px;
+  color: var(--muted);
+}
+
+.today-line b {
+  color: var(--text);
+}
+
+details.past h3 {
+  display: inline;
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+/* ---------- Phone fixes found by looking at real screenshots ---------- */
+
+/* Calendar cells: keep "12 mm" on one line and clear of the date number. */
+.c {
+  padding: 3px 4px;
+}
+
+.c .d {
+  font-size: 0.85rem;
+}
+
+.c .lv {
+  font-size: 0.65rem;
+  top: 4px;
+  right: 5px;
+}
+
+.c .mm {
+  white-space: nowrap;
+  font-size: 0.66rem;
+  left: 4px;
+  bottom: 3px;
+}
+
+/* Local government table: fits a phone with no sideways scrolling. */
+.lga {
+  min-width: 0;
+  table-layout: auto;
+}
+
+.lga tbody th {
+  width: 60%;
+}
+
+.lga-name {
+  display: block;
+  font-weight: 700;
+}
+
+.lga-first {
+  display: block;
+  margin: 1px 0 5px;
+}
+
+.lga-peak {
+  display: block;
+  margin-top: 3px;
+}
+
+.mini i {
+  width: 8px;
+  height: 14px;
+}
+
+/* ---------- 320px screens (small, older phones) ---------- */
+
+/* The header may wrap to a second line instead of pushing the page sideways. */
+.row {
+  flex-wrap: wrap;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+nav {
+  flex-wrap: wrap;
+  gap: 4px 14px;
+}
+
+/* The 16-day strip shrinks to fit its cell instead of forcing the table wider. */
+.mini {
+  display: flex;
+  width: 100%;
+  max-width: 176px;
+  gap: 2px;
+}
+
+.mini i {
+  flex: 1 1 0;
+  width: auto;
+  min-width: 3px;
+  max-width: 10px;
+}
+
+.lga th,
+.lga td {
+  padding: 8px 6px;
+}
+
+.lga small {
+  overflow-wrap: anywhere;
+}
+
+/* Long names such as Ogba/Egbema/Ndoni may break instead of widening the table. */
+.lga-name {
+  overflow-wrap: anywhere;
+}
+
+/* Small phones: roomier calendar cells (number only, the legend gives the unit) and tighter padding. */
+@media (max-width: 400px) {
+  .card {
+    padding: 12px;
+  }
+
+  .cal {
+    border-spacing: 2px;
+  }
+
+  .c .u {
+    display: none;
+  }
+
+  .c .mm {
+    font-size: 0.7rem;
+  }
+}
+
+/* On small phones the date takes the whole top row; the level letter sits beside the number below it. */
+@media (max-width: 400px) {
+  .c .lv {
+    top: auto;
+    bottom: 3px;
+    right: 4px;
+  }
+}
+
+/* ---------- Moderation screen ---------- */
+.report-row {
+  margin: 0;
+}
+
+.report-row.is-hidden {
+  opacity: 0.6;
+  border-style: dashed;
+}
+
+.report-row .actions {
+  gap: 8px;
+}
+
+.report-row .btn {
+  padding: 8px 12px;
+  font-size: 0.9rem;
+}

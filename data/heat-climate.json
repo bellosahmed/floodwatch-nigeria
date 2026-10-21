@@ -1,0 +1,2301 @@
+{
+ "generatedAt": "2026-10-19T14:36:10.954Z",
+ "period": "2015-2024",
+ "source": "Open-Meteo Historical Weather API (ERA5 reanalysis)",
+ "months": {
+  "abia": [
+   {
+    "month": 1,
+    "meanTmaxC": 34.9,
+    "p90TmaxC": 36.5
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 35.9,
+    "p90TmaxC": 38
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 33.2,
+    "p90TmaxC": 36.1
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 32.2,
+    "p90TmaxC": 34.4
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 30.8,
+    "p90TmaxC": 33
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 29.1,
+    "p90TmaxC": 30.9
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 28.3,
+    "p90TmaxC": 30
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 28.6,
+    "p90TmaxC": 30.3
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 28.7,
+    "p90TmaxC": 30.5
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 29.4,
+    "p90TmaxC": 31
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 30.9,
+    "p90TmaxC": 32.7
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 33.7,
+    "p90TmaxC": 35
+   }
+  ],
+  "adamawa": [
+   {
+    "month": 1,
+    "meanTmaxC": 34.2,
+    "p90TmaxC": 37.4
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 36.7,
+    "p90TmaxC": 39.3
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 39.6,
+    "p90TmaxC": 41.2
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 39.7,
+    "p90TmaxC": 41.4
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 37.5,
+    "p90TmaxC": 40.4
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 33.8,
+    "p90TmaxC": 37
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 31.6,
+    "p90TmaxC": 33.8
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 30.4,
+    "p90TmaxC": 32.5
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 30.7,
+    "p90TmaxC": 32.7
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 33.5,
+    "p90TmaxC": 36.6
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 36,
+    "p90TmaxC": 37.9
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 34.6,
+    "p90TmaxC": 36.8
+   }
+  ],
+  "akwa-ibom": [
+   {
+    "month": 1,
+    "meanTmaxC": 33.8,
+    "p90TmaxC": 35.4
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 34.7,
+    "p90TmaxC": 36.8
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 32.2,
+    "p90TmaxC": 35.2
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 31.6,
+    "p90TmaxC": 34
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 30.4,
+    "p90TmaxC": 32.7
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 28.8,
+    "p90TmaxC": 30.9
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 28.2,
+    "p90TmaxC": 30
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 28.3,
+    "p90TmaxC": 30.2
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 28.5,
+    "p90TmaxC": 30.5
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 29.1,
+    "p90TmaxC": 31.1
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 30.4,
+    "p90TmaxC": 32.2
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 32.7,
+    "p90TmaxC": 34.4
+   }
+  ],
+  "anambra": [
+   {
+    "month": 1,
+    "meanTmaxC": 35.4,
+    "p90TmaxC": 36.9
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 36.2,
+    "p90TmaxC": 38.2
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 34.4,
+    "p90TmaxC": 36.9
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 33.3,
+    "p90TmaxC": 35.6
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 31.9,
+    "p90TmaxC": 33.8
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 30,
+    "p90TmaxC": 31.9
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 29.2,
+    "p90TmaxC": 30.7
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 29.4,
+    "p90TmaxC": 30.9
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 29.5,
+    "p90TmaxC": 31.3
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 30.4,
+    "p90TmaxC": 31.8
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 31.9,
+    "p90TmaxC": 33.5
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 34.3,
+    "p90TmaxC": 35.9
+   }
+  ],
+  "bauchi": [
+   {
+    "month": 1,
+    "meanTmaxC": 30,
+    "p90TmaxC": 33.4
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 32.7,
+    "p90TmaxC": 35.7
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 36.5,
+    "p90TmaxC": 38.4
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 37.8,
+    "p90TmaxC": 39.5
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 36.5,
+    "p90TmaxC": 38.7
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 32,
+    "p90TmaxC": 35.5
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 29,
+    "p90TmaxC": 31.2
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 27.7,
+    "p90TmaxC": 29.4
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 28.7,
+    "p90TmaxC": 30.1
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 30.8,
+    "p90TmaxC": 32.7
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 31.9,
+    "p90TmaxC": 33.7
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 30.1,
+    "p90TmaxC": 32.7
+   }
+  ],
+  "bayelsa": [
+   {
+    "month": 1,
+    "meanTmaxC": 33.1,
+    "p90TmaxC": 35.3
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 33.6,
+    "p90TmaxC": 36
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 31.7,
+    "p90TmaxC": 33.7
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 31.4,
+    "p90TmaxC": 33
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 30.5,
+    "p90TmaxC": 32.2
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 28.8,
+    "p90TmaxC": 30.5
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 28.1,
+    "p90TmaxC": 29.7
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 28.4,
+    "p90TmaxC": 29.9
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 28.5,
+    "p90TmaxC": 30.1
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 29.4,
+    "p90TmaxC": 30.9
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 30.6,
+    "p90TmaxC": 32
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 32.3,
+    "p90TmaxC": 34.9
+   }
+  ],
+  "benue": [
+   {
+    "month": 1,
+    "meanTmaxC": 35.1,
+    "p90TmaxC": 36.8
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 36.7,
+    "p90TmaxC": 38.4
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 37,
+    "p90TmaxC": 38.8
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 36.4,
+    "p90TmaxC": 38.6
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 34.2,
+    "p90TmaxC": 36.5
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 31.3,
+    "p90TmaxC": 33.6
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 29.9,
+    "p90TmaxC": 31.4
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 29.5,
+    "p90TmaxC": 31.2
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 29.8,
+    "p90TmaxC": 31.4
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 31,
+    "p90TmaxC": 32.9
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 33.9,
+    "p90TmaxC": 35.9
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 34.9,
+    "p90TmaxC": 37.1
+   }
+  ],
+  "borno": [
+   {
+    "month": 1,
+    "meanTmaxC": 30.7,
+    "p90TmaxC": 35.1
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 33.5,
+    "p90TmaxC": 37.5
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 38.4,
+    "p90TmaxC": 41.2
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 40.2,
+    "p90TmaxC": 42.1
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 39.5,
+    "p90TmaxC": 41.4
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 36,
+    "p90TmaxC": 39.1
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 32.4,
+    "p90TmaxC": 35.1
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 30.4,
+    "p90TmaxC": 32.8
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 32.2,
+    "p90TmaxC": 34.4
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 34.7,
+    "p90TmaxC": 36.6
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 34.3,
+    "p90TmaxC": 36.3
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 31.1,
+    "p90TmaxC": 34.2
+   }
+  ],
+  "cross-river": [
+   {
+    "month": 1,
+    "meanTmaxC": 32.8,
+    "p90TmaxC": 34.3
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 33.6,
+    "p90TmaxC": 35.7
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 31.4,
+    "p90TmaxC": 33.8
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 30.9,
+    "p90TmaxC": 32.8
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 29.9,
+    "p90TmaxC": 31.9
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 28.5,
+    "p90TmaxC": 30.2
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 27.7,
+    "p90TmaxC": 29.6
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 27.8,
+    "p90TmaxC": 29.6
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 28.2,
+    "p90TmaxC": 30.1
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 28.8,
+    "p90TmaxC": 30.6
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 29.9,
+    "p90TmaxC": 31.7
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 31.9,
+    "p90TmaxC": 33.5
+   }
+  ],
+  "delta": [
+   {
+    "month": 1,
+    "meanTmaxC": 34.7,
+    "p90TmaxC": 36.2
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 35.8,
+    "p90TmaxC": 37.6
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 34.4,
+    "p90TmaxC": 36.9
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 33.4,
+    "p90TmaxC": 35.7
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 31.8,
+    "p90TmaxC": 33.8
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 29.9,
+    "p90TmaxC": 31.9
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 29.2,
+    "p90TmaxC": 30.8
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 29.3,
+    "p90TmaxC": 31
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 29.4,
+    "p90TmaxC": 31.2
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 30.2,
+    "p90TmaxC": 31.6
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 31.8,
+    "p90TmaxC": 33.2
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 33.9,
+    "p90TmaxC": 35.3
+   }
+  ],
+  "ebonyi": [
+   {
+    "month": 1,
+    "meanTmaxC": 35.6,
+    "p90TmaxC": 37
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 36.8,
+    "p90TmaxC": 38.5
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 35.2,
+    "p90TmaxC": 38.1
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 34.2,
+    "p90TmaxC": 36.7
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 32.5,
+    "p90TmaxC": 34.7
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 30.6,
+    "p90TmaxC": 32.6
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 29.6,
+    "p90TmaxC": 31.1
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 29.7,
+    "p90TmaxC": 31.2
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 29.9,
+    "p90TmaxC": 31.7
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 30.7,
+    "p90TmaxC": 32.4
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 32.6,
+    "p90TmaxC": 34.6
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 34.8,
+    "p90TmaxC": 36.1
+   }
+  ],
+  "edo": [
+   {
+    "month": 1,
+    "meanTmaxC": 34.3,
+    "p90TmaxC": 36
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 34.6,
+    "p90TmaxC": 37.1
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 32.5,
+    "p90TmaxC": 34.9
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 31.6,
+    "p90TmaxC": 33.5
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 30.4,
+    "p90TmaxC": 32.1
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 28.6,
+    "p90TmaxC": 30.5
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 27.8,
+    "p90TmaxC": 29.4
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 28,
+    "p90TmaxC": 29.7
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 28.2,
+    "p90TmaxC": 30.1
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 29.4,
+    "p90TmaxC": 30.9
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 30.9,
+    "p90TmaxC": 32.5
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 33.2,
+    "p90TmaxC": 35
+   }
+  ],
+  "ekiti": [
+   {
+    "month": 1,
+    "meanTmaxC": 33.8,
+    "p90TmaxC": 35.2
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 34.8,
+    "p90TmaxC": 36.5
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 33.3,
+    "p90TmaxC": 35.3
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 32.3,
+    "p90TmaxC": 34.2
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 30.7,
+    "p90TmaxC": 32.5
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 28.7,
+    "p90TmaxC": 30.8
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 27.8,
+    "p90TmaxC": 29.6
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 27.6,
+    "p90TmaxC": 29.5
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 28.2,
+    "p90TmaxC": 30.1
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 29.5,
+    "p90TmaxC": 31.4
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 31.7,
+    "p90TmaxC": 33.5
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 33.3,
+    "p90TmaxC": 34.5
+   }
+  ],
+  "enugu": [
+   {
+    "month": 1,
+    "meanTmaxC": 34.8,
+    "p90TmaxC": 36.3
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 35.9,
+    "p90TmaxC": 37.8
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 34.4,
+    "p90TmaxC": 37.1
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 33.2,
+    "p90TmaxC": 35.5
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 31.6,
+    "p90TmaxC": 33.5
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 29.8,
+    "p90TmaxC": 31.5
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 29,
+    "p90TmaxC": 30.3
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 29,
+    "p90TmaxC": 30.5
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 29.3,
+    "p90TmaxC": 31
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 30.1,
+    "p90TmaxC": 31.8
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 32.2,
+    "p90TmaxC": 34.1
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 34.3,
+    "p90TmaxC": 35.4
+   }
+  ],
+  "fct": [
+   {
+    "month": 1,
+    "meanTmaxC": 33.7,
+    "p90TmaxC": 35.1
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 35,
+    "p90TmaxC": 36.8
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 35.1,
+    "p90TmaxC": 37
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 34.2,
+    "p90TmaxC": 36.7
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 31.7,
+    "p90TmaxC": 34.1
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 29,
+    "p90TmaxC": 31
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 27.4,
+    "p90TmaxC": 29.2
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 26.9,
+    "p90TmaxC": 28.9
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 28.1,
+    "p90TmaxC": 29.9
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 30,
+    "p90TmaxC": 32.3
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 32.7,
+    "p90TmaxC": 34.2
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 33.5,
+    "p90TmaxC": 34.9
+   }
+  ],
+  "gombe": [
+   {
+    "month": 1,
+    "meanTmaxC": 31,
+    "p90TmaxC": 34.9
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 33.7,
+    "p90TmaxC": 37
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 37.5,
+    "p90TmaxC": 39.6
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 38.2,
+    "p90TmaxC": 40.1
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 36.6,
+    "p90TmaxC": 39
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 32.9,
+    "p90TmaxC": 36.3
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 30,
+    "p90TmaxC": 32.6
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 28.3,
+    "p90TmaxC": 30.2
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 29.4,
+    "p90TmaxC": 31.3
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 32.2,
+    "p90TmaxC": 34.8
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 33.4,
+    "p90TmaxC": 35.1
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 31.2,
+    "p90TmaxC": 33.8
+   }
+  ],
+  "imo": [
+   {
+    "month": 1,
+    "meanTmaxC": 34.7,
+    "p90TmaxC": 36.5
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 35.7,
+    "p90TmaxC": 37.9
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 33.5,
+    "p90TmaxC": 36.2
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 32.7,
+    "p90TmaxC": 35.2
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 31.3,
+    "p90TmaxC": 33.7
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 29.6,
+    "p90TmaxC": 31.8
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 28.7,
+    "p90TmaxC": 30.7
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 29.1,
+    "p90TmaxC": 30.9
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 29.1,
+    "p90TmaxC": 31.2
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 29.9,
+    "p90TmaxC": 32
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 31.3,
+    "p90TmaxC": 33
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 33.7,
+    "p90TmaxC": 35.4
+   }
+  ],
+  "jigawa": [
+   {
+    "month": 1,
+    "meanTmaxC": 28.7,
+    "p90TmaxC": 33.5
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 31.7,
+    "p90TmaxC": 36.1
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 37,
+    "p90TmaxC": 39.5
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 39,
+    "p90TmaxC": 40.7
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 38.5,
+    "p90TmaxC": 40.4
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 34.6,
+    "p90TmaxC": 38
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 31.4,
+    "p90TmaxC": 33.6
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 29.8,
+    "p90TmaxC": 32
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 31.6,
+    "p90TmaxC": 33.7
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 33.8,
+    "p90TmaxC": 35.7
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 32.6,
+    "p90TmaxC": 34.8
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 29.1,
+    "p90TmaxC": 32.7
+   }
+  ],
+  "kaduna": [
+   {
+    "month": 1,
+    "meanTmaxC": 30.9,
+    "p90TmaxC": 33.6
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 33.3,
+    "p90TmaxC": 35.7
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 35.8,
+    "p90TmaxC": 37.6
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 35.6,
+    "p90TmaxC": 37.7
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 33,
+    "p90TmaxC": 35.2
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 29.8,
+    "p90TmaxC": 31.9
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 27.8,
+    "p90TmaxC": 29.6
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 26.8,
+    "p90TmaxC": 28.8
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 28.3,
+    "p90TmaxC": 30.1
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 30.2,
+    "p90TmaxC": 31.9
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 31.5,
+    "p90TmaxC": 33.2
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 30.5,
+    "p90TmaxC": 32.9
+   }
+  ],
+  "kano": [
+   {
+    "month": 1,
+    "meanTmaxC": 28.7,
+    "p90TmaxC": 33.1
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 31.5,
+    "p90TmaxC": 35.6
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 36.4,
+    "p90TmaxC": 38.8
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 38.5,
+    "p90TmaxC": 40.2
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 38.2,
+    "p90TmaxC": 40
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 34.5,
+    "p90TmaxC": 37.9
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 31.1,
+    "p90TmaxC": 33.3
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 29.3,
+    "p90TmaxC": 31.5
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 31,
+    "p90TmaxC": 33.2
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 33.2,
+    "p90TmaxC": 35.1
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 32.2,
+    "p90TmaxC": 34.5
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 29,
+    "p90TmaxC": 32.1
+   }
+  ],
+  "katsina": [
+   {
+    "month": 1,
+    "meanTmaxC": 28.9,
+    "p90TmaxC": 33
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 31.6,
+    "p90TmaxC": 35.7
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 36.3,
+    "p90TmaxC": 38.9
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 38.5,
+    "p90TmaxC": 40.4
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 38.3,
+    "p90TmaxC": 40.2
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 35.2,
+    "p90TmaxC": 38.1
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 31.6,
+    "p90TmaxC": 34.2
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 29.4,
+    "p90TmaxC": 31.7
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 31.5,
+    "p90TmaxC": 33.9
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 33.9,
+    "p90TmaxC": 35.9
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 32.6,
+    "p90TmaxC": 35
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 29.3,
+    "p90TmaxC": 32.5
+   }
+  ],
+  "kebbi": [
+   {
+    "month": 1,
+    "meanTmaxC": 32.5,
+    "p90TmaxC": 35.5
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 35.5,
+    "p90TmaxC": 38.7
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 39.3,
+    "p90TmaxC": 41.3
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 40.4,
+    "p90TmaxC": 42
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 39.1,
+    "p90TmaxC": 41.3
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 35.4,
+    "p90TmaxC": 38.4
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 32.3,
+    "p90TmaxC": 34.9
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 30.5,
+    "p90TmaxC": 32.7
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 32,
+    "p90TmaxC": 34.3
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 34.9,
+    "p90TmaxC": 37.2
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 35.3,
+    "p90TmaxC": 37.3
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 32.8,
+    "p90TmaxC": 35.8
+   }
+  ],
+  "kogi": [
+   {
+    "month": 1,
+    "meanTmaxC": 35.7,
+    "p90TmaxC": 37.2
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 36.9,
+    "p90TmaxC": 38.6
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 36.7,
+    "p90TmaxC": 38.4
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 35.8,
+    "p90TmaxC": 38
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 33.8,
+    "p90TmaxC": 35.9
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 31.2,
+    "p90TmaxC": 33.1
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 30.2,
+    "p90TmaxC": 31.7
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 29.9,
+    "p90TmaxC": 31.6
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 30.1,
+    "p90TmaxC": 31.7
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 31.3,
+    "p90TmaxC": 33.1
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 34.2,
+    "p90TmaxC": 35.9
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 35.5,
+    "p90TmaxC": 36.9
+   }
+  ],
+  "kwara": [
+   {
+    "month": 1,
+    "meanTmaxC": 35,
+    "p90TmaxC": 36.5
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 36.6,
+    "p90TmaxC": 38.1
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 36.7,
+    "p90TmaxC": 38.6
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 35.6,
+    "p90TmaxC": 37.9
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 33.7,
+    "p90TmaxC": 35.8
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 30.8,
+    "p90TmaxC": 32.9
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 29.3,
+    "p90TmaxC": 30.8
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 28.7,
+    "p90TmaxC": 30.4
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 29,
+    "p90TmaxC": 30.6
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 30.9,
+    "p90TmaxC": 33.3
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 33.9,
+    "p90TmaxC": 35.4
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 34.7,
+    "p90TmaxC": 35.9
+   }
+  ],
+  "lagos": [
+   {
+    "month": 1,
+    "meanTmaxC": 33.3,
+    "p90TmaxC": 35.1
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 33.3,
+    "p90TmaxC": 35.4
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 32.1,
+    "p90TmaxC": 33.7
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 31.9,
+    "p90TmaxC": 33.6
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 30.8,
+    "p90TmaxC": 32.7
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 28.8,
+    "p90TmaxC": 30.7
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 28,
+    "p90TmaxC": 29.2
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 28,
+    "p90TmaxC": 29.2
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 28.4,
+    "p90TmaxC": 29.8
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 29.4,
+    "p90TmaxC": 30.7
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 30.9,
+    "p90TmaxC": 32.5
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 33,
+    "p90TmaxC": 35.1
+   }
+  ],
+  "nasarawa": [
+   {
+    "month": 1,
+    "meanTmaxC": 35.2,
+    "p90TmaxC": 36.8
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 36.8,
+    "p90TmaxC": 38.5
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 37,
+    "p90TmaxC": 38.8
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 36,
+    "p90TmaxC": 38.4
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 33.5,
+    "p90TmaxC": 35.8
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 30.8,
+    "p90TmaxC": 32.9
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 29.4,
+    "p90TmaxC": 31.1
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 28.9,
+    "p90TmaxC": 30.8
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 29.7,
+    "p90TmaxC": 31.4
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 31.3,
+    "p90TmaxC": 33.4
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 34.2,
+    "p90TmaxC": 36.1
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 35,
+    "p90TmaxC": 36.9
+   }
+  ],
+  "niger": [
+   {
+    "month": 1,
+    "meanTmaxC": 35,
+    "p90TmaxC": 36.8
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 36.7,
+    "p90TmaxC": 38.6
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 37.4,
+    "p90TmaxC": 39.4
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 36.8,
+    "p90TmaxC": 39
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 33.9,
+    "p90TmaxC": 36.4
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 30.8,
+    "p90TmaxC": 33.3
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 28.9,
+    "p90TmaxC": 30.6
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 28.1,
+    "p90TmaxC": 29.9
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 29.2,
+    "p90TmaxC": 30.9
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 31.2,
+    "p90TmaxC": 33.7
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 34.4,
+    "p90TmaxC": 36.2
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 34.9,
+    "p90TmaxC": 36.8
+   }
+  ],
+  "ogun": [
+   {
+    "month": 1,
+    "meanTmaxC": 35.7,
+    "p90TmaxC": 37.2
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 36.2,
+    "p90TmaxC": 38.3
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 34.5,
+    "p90TmaxC": 37
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 33.5,
+    "p90TmaxC": 35.9
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 31.9,
+    "p90TmaxC": 33.9
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 29.8,
+    "p90TmaxC": 32
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 28.8,
+    "p90TmaxC": 30.3
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 28.6,
+    "p90TmaxC": 30.1
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 29,
+    "p90TmaxC": 30.5
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 30.1,
+    "p90TmaxC": 31.9
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 32.5,
+    "p90TmaxC": 34.5
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 35,
+    "p90TmaxC": 36.7
+   }
+  ],
+  "ondo": [
+   {
+    "month": 1,
+    "meanTmaxC": 33.9,
+    "p90TmaxC": 35.3
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 34.7,
+    "p90TmaxC": 36.6
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 32.9,
+    "p90TmaxC": 35.4
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 31.8,
+    "p90TmaxC": 33.9
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 30.4,
+    "p90TmaxC": 32.3
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 28.5,
+    "p90TmaxC": 30.6
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 27.7,
+    "p90TmaxC": 29.5
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 27.6,
+    "p90TmaxC": 29.5
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 28,
+    "p90TmaxC": 30
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 29.3,
+    "p90TmaxC": 31
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 31.3,
+    "p90TmaxC": 33.2
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 33,
+    "p90TmaxC": 34.4
+   }
+  ],
+  "osun": [
+   {
+    "month": 1,
+    "meanTmaxC": 35.3,
+    "p90TmaxC": 36.5
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 36,
+    "p90TmaxC": 37.8
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 34.1,
+    "p90TmaxC": 36.5
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 32.9,
+    "p90TmaxC": 35.1
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 31.4,
+    "p90TmaxC": 33.2
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 29.3,
+    "p90TmaxC": 31.5
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 28.4,
+    "p90TmaxC": 30
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 28.1,
+    "p90TmaxC": 30
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 28.7,
+    "p90TmaxC": 30.7
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 30.1,
+    "p90TmaxC": 32
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 32.6,
+    "p90TmaxC": 34.9
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 34.5,
+    "p90TmaxC": 36
+   }
+  ],
+  "oyo": [
+   {
+    "month": 1,
+    "meanTmaxC": 34.8,
+    "p90TmaxC": 36
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 35.5,
+    "p90TmaxC": 37.3
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 34,
+    "p90TmaxC": 36.6
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 32.9,
+    "p90TmaxC": 35.2
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 31.3,
+    "p90TmaxC": 33.4
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 29.1,
+    "p90TmaxC": 31.2
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 28.1,
+    "p90TmaxC": 29.7
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 27.8,
+    "p90TmaxC": 29.4
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 28.4,
+    "p90TmaxC": 29.9
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 29.6,
+    "p90TmaxC": 31.3
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 31.9,
+    "p90TmaxC": 33.7
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 34,
+    "p90TmaxC": 35.6
+   }
+  ],
+  "plateau": [
+   {
+    "month": 1,
+    "meanTmaxC": 27.2,
+    "p90TmaxC": 29.6
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 29.2,
+    "p90TmaxC": 31.3
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 31.4,
+    "p90TmaxC": 33.4
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 31.7,
+    "p90TmaxC": 33.8
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 29.5,
+    "p90TmaxC": 32.1
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 26.4,
+    "p90TmaxC": 28.8
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 24.3,
+    "p90TmaxC": 26.3
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 23.5,
+    "p90TmaxC": 25.7
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 25.3,
+    "p90TmaxC": 27
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 26.9,
+    "p90TmaxC": 28.4
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 27.8,
+    "p90TmaxC": 29.1
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 26.9,
+    "p90TmaxC": 28.6
+   }
+  ],
+  "rivers": [
+   {
+    "month": 1,
+    "meanTmaxC": 33.2,
+    "p90TmaxC": 35.5
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 33.7,
+    "p90TmaxC": 36.3
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 31.3,
+    "p90TmaxC": 33.3
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 31,
+    "p90TmaxC": 32.6
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 30.1,
+    "p90TmaxC": 31.9
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 28.6,
+    "p90TmaxC": 30.3
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 27.9,
+    "p90TmaxC": 29.5
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 28.2,
+    "p90TmaxC": 29.7
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 28.3,
+    "p90TmaxC": 29.9
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 29,
+    "p90TmaxC": 30.6
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 30.1,
+    "p90TmaxC": 31.7
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 32.3,
+    "p90TmaxC": 34.9
+   }
+  ],
+  "sokoto": [
+   {
+    "month": 1,
+    "meanTmaxC": 31.5,
+    "p90TmaxC": 35.3
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 34.4,
+    "p90TmaxC": 38
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 38.8,
+    "p90TmaxC": 41
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 40.5,
+    "p90TmaxC": 42.1
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 39.8,
+    "p90TmaxC": 41.7
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 36.5,
+    "p90TmaxC": 39.5
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 33,
+    "p90TmaxC": 36
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 30.6,
+    "p90TmaxC": 32.9
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 32.6,
+    "p90TmaxC": 35.2
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 35.3,
+    "p90TmaxC": 37.2
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 34.9,
+    "p90TmaxC": 36.8
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 31.8,
+    "p90TmaxC": 35
+   }
+  ],
+  "taraba": [
+   {
+    "month": 1,
+    "meanTmaxC": 34.5,
+    "p90TmaxC": 37.2
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 36.9,
+    "p90TmaxC": 39.1
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 38.4,
+    "p90TmaxC": 40.2
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 37.8,
+    "p90TmaxC": 39.6
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 35.4,
+    "p90TmaxC": 37.6
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 32.1,
+    "p90TmaxC": 34.9
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 29.9,
+    "p90TmaxC": 32.1
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 29.1,
+    "p90TmaxC": 30.9
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 29.9,
+    "p90TmaxC": 31.8
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 31.9,
+    "p90TmaxC": 34
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 34.7,
+    "p90TmaxC": 36.5
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 34.6,
+    "p90TmaxC": 36.6
+   }
+  ],
+  "yobe": [
+   {
+    "month": 1,
+    "meanTmaxC": 30.4,
+    "p90TmaxC": 34.9
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 33.2,
+    "p90TmaxC": 37.1
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 38.1,
+    "p90TmaxC": 40.7
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 39.9,
+    "p90TmaxC": 41.6
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 39.2,
+    "p90TmaxC": 41.1
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 35.3,
+    "p90TmaxC": 39.1
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 31.9,
+    "p90TmaxC": 34.6
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 29.8,
+    "p90TmaxC": 32
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 31.5,
+    "p90TmaxC": 33.8
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 34.3,
+    "p90TmaxC": 36.8
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 34.2,
+    "p90TmaxC": 36.5
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 30.9,
+    "p90TmaxC": 34.3
+   }
+  ],
+  "zamfara": [
+   {
+    "month": 1,
+    "meanTmaxC": 30.3,
+    "p90TmaxC": 33.6
+   },
+   {
+    "month": 2,
+    "meanTmaxC": 33,
+    "p90TmaxC": 36.8
+   },
+   {
+    "month": 3,
+    "meanTmaxC": 37.2,
+    "p90TmaxC": 39.4
+   },
+   {
+    "month": 4,
+    "meanTmaxC": 38.4,
+    "p90TmaxC": 40.2
+   },
+   {
+    "month": 5,
+    "meanTmaxC": 37.1,
+    "p90TmaxC": 39.4
+   },
+   {
+    "month": 6,
+    "meanTmaxC": 33.4,
+    "p90TmaxC": 36.6
+   },
+   {
+    "month": 7,
+    "meanTmaxC": 30.2,
+    "p90TmaxC": 32.5
+   },
+   {
+    "month": 8,
+    "meanTmaxC": 28.6,
+    "p90TmaxC": 30.6
+   },
+   {
+    "month": 9,
+    "meanTmaxC": 30.3,
+    "p90TmaxC": 32.2
+   },
+   {
+    "month": 10,
+    "meanTmaxC": 32.5,
+    "p90TmaxC": 34.2
+   },
+   {
+    "month": 11,
+    "meanTmaxC": 32.7,
+    "p90TmaxC": 34.7
+   },
+   {
+    "month": 12,
+    "meanTmaxC": 30.3,
+    "p90TmaxC": 33.3
+   }
+  ]
+ }
+}

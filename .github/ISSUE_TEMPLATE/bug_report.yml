@@ -1,0 +1,31 @@
+name: Bug report
+description: Something is wrong, broken or surprising
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you. **Do not paste phone numbers or other personal data.** For a security problem, do not open an issue:
+        use the repository's *Security* tab and *Report a vulnerability*.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened, and what did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: where
+    attributes:
+      label: Where and when
+      description: The page or API endpoint, the state or local government, and the date and time you looked. For a risk level that seems wrong, say what you expected and why.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+  - type: input
+    id: env
+    attributes:
+      label: Environment
+      description: Browser and phone model, or Node version if you are running it yourself.

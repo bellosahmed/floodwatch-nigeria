@@ -1,0 +1,57 @@
+{
+  "name": "floodwatch",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit",
+    "test": "node --import tsx --test tests/*.test.ts",
+    "dataset": "tsx scripts/build-dataset.ts",
+    "climatology": "tsx scripts/build-climatology.ts",
+    "heatclimate": "tsx scripts/build-heat-climate.ts",
+    "riverclimate": "tsx scripts/build-river-climate.ts",
+    "lgas": "tsx scripts/build-lgas.ts"
+  },
+  "dependencies": {
+    "next": "^16.4.2",
+    "pg": "^8.23.1",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "^20",
+    "@types/pg": "^8.23.1",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "^16.4.2",
+    "tsx": "^4.23.15",
+    "typescript": "^5"
+  },
+  "description": "Free flood early-warning for Nigeria: forecasts confirmed by community reports and river gauges",
+  "keywords": [
+    "flood",
+    "heat",
+    "early-warning",
+    "nigeria",
+    "climate-adaptation",
+    "open-data",
+    "nextjs"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/bellosahmed/floodwatch-nigeria#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bellosahmed/floodwatch-nigeria.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bellosahmed/floodwatch-nigeria/issues"
+  },
+  "engines": {
+    "node": ">=20.9.0"
+  }
+}

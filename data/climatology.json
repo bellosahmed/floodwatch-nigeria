@@ -1,0 +1,2749 @@
+{
+ "generatedAt": "2026-10-18T10:58:08.967Z",
+ "period": "2015-2024",
+ "source": "Open-Meteo Historical Weather API (ERA5 reanalysis)",
+ "thresholds": {
+  "heavyMm": 30,
+  "veryHeavyMm": 50
+ },
+ "months": {
+  "abia": [
+   {
+    "month": 1,
+    "meanMm": 16,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 23,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 110,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 122,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 194,
+    "heavyDaysPerYear": 0.4,
+    "probVeryHeavy": 0.2
+   },
+   {
+    "month": 6,
+    "meanMm": 243,
+    "heavyDaysPerYear": 0.4,
+    "probVeryHeavy": 0.3
+   },
+   {
+    "month": 7,
+    "meanMm": 279,
+    "heavyDaysPerYear": 0.9,
+    "probVeryHeavy": 0.4
+   },
+   {
+    "month": 8,
+    "meanMm": 234,
+    "heavyDaysPerYear": 0.4,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 9,
+    "meanMm": 302,
+    "heavyDaysPerYear": 0.6,
+    "probVeryHeavy": 0.3
+   },
+   {
+    "month": 10,
+    "meanMm": 244,
+    "heavyDaysPerYear": 0.7,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 11,
+    "meanMm": 78,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 10,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "adamawa": [
+   {
+    "month": 1,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 1,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 10,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 40,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 81,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 7,
+    "meanMm": 109,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 8,
+    "meanMm": 170,
+    "heavyDaysPerYear": 0.4,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 9,
+    "meanMm": 121,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 10,
+    "meanMm": 46,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 11,
+    "meanMm": 2,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "akwa-ibom": [
+   {
+    "month": 1,
+    "meanMm": 25,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 37,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 172,
+    "heavyDaysPerYear": 0.6,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 4,
+    "meanMm": 172,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 240,
+    "heavyDaysPerYear": 0.5,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 379,
+    "heavyDaysPerYear": 1.9,
+    "probVeryHeavy": 0.5
+   },
+   {
+    "month": 7,
+    "meanMm": 330,
+    "heavyDaysPerYear": 0.9,
+    "probVeryHeavy": 0.3
+   },
+   {
+    "month": 8,
+    "meanMm": 335,
+    "heavyDaysPerYear": 1.9,
+    "probVeryHeavy": 0.5
+   },
+   {
+    "month": 9,
+    "meanMm": 389,
+    "heavyDaysPerYear": 1.8,
+    "probVeryHeavy": 0.4
+   },
+   {
+    "month": 10,
+    "meanMm": 331,
+    "heavyDaysPerYear": 0.8,
+    "probVeryHeavy": 0.3
+   },
+   {
+    "month": 11,
+    "meanMm": 145,
+    "heavyDaysPerYear": 0.4,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 12,
+    "meanMm": 18,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "anambra": [
+   {
+    "month": 1,
+    "meanMm": 7,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 17,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 80,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 97,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 149,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 210,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 7,
+    "meanMm": 233,
+    "heavyDaysPerYear": 0.8,
+    "probVeryHeavy": 0.2
+   },
+   {
+    "month": 8,
+    "meanMm": 201,
+    "heavyDaysPerYear": 0.4,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 9,
+    "meanMm": 251,
+    "heavyDaysPerYear": 0.6,
+    "probVeryHeavy": 0.2
+   },
+   {
+    "month": 10,
+    "meanMm": 214,
+    "heavyDaysPerYear": 0.3,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 11,
+    "meanMm": 51,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 3,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "bauchi": [
+   {
+    "month": 1,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 4,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 30,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 100,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 7,
+    "meanMm": 199,
+    "heavyDaysPerYear": 0.4,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 8,
+    "meanMm": 282,
+    "heavyDaysPerYear": 1.1,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 9,
+    "meanMm": 156,
+    "heavyDaysPerYear": 0.4,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 10,
+    "meanMm": 39,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 11,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "bayelsa": [
+   {
+    "month": 1,
+    "meanMm": 41,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 60,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 204,
+    "heavyDaysPerYear": 0.4,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 4,
+    "meanMm": 212,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 292,
+    "heavyDaysPerYear": 0.6,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 6,
+    "meanMm": 323,
+    "heavyDaysPerYear": 1.2,
+    "probVeryHeavy": 0.3
+   },
+   {
+    "month": 7,
+    "meanMm": 365,
+    "heavyDaysPerYear": 1.8,
+    "probVeryHeavy": 0.6
+   },
+   {
+    "month": 8,
+    "meanMm": 254,
+    "heavyDaysPerYear": 1,
+    "probVeryHeavy": 0.3
+   },
+   {
+    "month": 9,
+    "meanMm": 358,
+    "heavyDaysPerYear": 1.3,
+    "probVeryHeavy": 0.2
+   },
+   {
+    "month": 10,
+    "meanMm": 367,
+    "heavyDaysPerYear": 1,
+    "probVeryHeavy": 0.3
+   },
+   {
+    "month": 11,
+    "meanMm": 180,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 12,
+    "meanMm": 40,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "benue": [
+   {
+    "month": 1,
+    "meanMm": 1,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 5,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 14,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 33,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 56,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 123,
+    "heavyDaysPerYear": 0.4,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 7,
+    "meanMm": 182,
+    "heavyDaysPerYear": 0.3,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 8,
+    "meanMm": 208,
+    "heavyDaysPerYear": 0.7,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 9,
+    "meanMm": 195,
+    "heavyDaysPerYear": 0.4,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 10,
+    "meanMm": 94,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 11,
+    "meanMm": 10,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "borno": [
+   {
+    "month": 1,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 6,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 36,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 7,
+    "meanMm": 102,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 8,
+    "meanMm": 211,
+    "heavyDaysPerYear": 0.9,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 9,
+    "meanMm": 105,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 10,
+    "meanMm": 22,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 11,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "cross-river": [
+   {
+    "month": 1,
+    "meanMm": 32,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 47,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 196,
+    "heavyDaysPerYear": 0.6,
+    "probVeryHeavy": 0.2
+   },
+   {
+    "month": 4,
+    "meanMm": 168,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 247,
+    "heavyDaysPerYear": 0.9,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 384,
+    "heavyDaysPerYear": 2.3,
+    "probVeryHeavy": 0.6
+   },
+   {
+    "month": 7,
+    "meanMm": 354,
+    "heavyDaysPerYear": 1.9,
+    "probVeryHeavy": 0.3
+   },
+   {
+    "month": 8,
+    "meanMm": 362,
+    "heavyDaysPerYear": 1.8,
+    "probVeryHeavy": 0.6
+   },
+   {
+    "month": 9,
+    "meanMm": 388,
+    "heavyDaysPerYear": 2,
+    "probVeryHeavy": 0.5
+   },
+   {
+    "month": 10,
+    "meanMm": 351,
+    "heavyDaysPerYear": 1.3,
+    "probVeryHeavy": 0.3
+   },
+   {
+    "month": 11,
+    "meanMm": 168,
+    "heavyDaysPerYear": 0.7,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 12,
+    "meanMm": 28,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "delta": [
+   {
+    "month": 1,
+    "meanMm": 7,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 13,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 68,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 79,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 128,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 201,
+    "heavyDaysPerYear": 0.3,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 7,
+    "meanMm": 227,
+    "heavyDaysPerYear": 0.6,
+    "probVeryHeavy": 0.2
+   },
+   {
+    "month": 8,
+    "meanMm": 223,
+    "heavyDaysPerYear": 0.7,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 9,
+    "meanMm": 256,
+    "heavyDaysPerYear": 1,
+    "probVeryHeavy": 0.4
+   },
+   {
+    "month": 10,
+    "meanMm": 168,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 11,
+    "meanMm": 35,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 2,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "ebonyi": [
+   {
+    "month": 1,
+    "meanMm": 6,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 13,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 51,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 76,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 126,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 250,
+    "heavyDaysPerYear": 0.9,
+    "probVeryHeavy": 0.2
+   },
+   {
+    "month": 7,
+    "meanMm": 265,
+    "heavyDaysPerYear": 0.9,
+    "probVeryHeavy": 0.4
+   },
+   {
+    "month": 8,
+    "meanMm": 237,
+    "heavyDaysPerYear": 1,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 9,
+    "meanMm": 263,
+    "heavyDaysPerYear": 1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 10,
+    "meanMm": 191,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 11,
+    "meanMm": 41,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 3,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "edo": [
+   {
+    "month": 1,
+    "meanMm": 14,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 32,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 105,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 120,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 195,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 284,
+    "heavyDaysPerYear": 1,
+    "probVeryHeavy": 0.4
+   },
+   {
+    "month": 7,
+    "meanMm": 240,
+    "heavyDaysPerYear": 0.6,
+    "probVeryHeavy": 0.2
+   },
+   {
+    "month": 8,
+    "meanMm": 231,
+    "heavyDaysPerYear": 0.9,
+    "probVeryHeavy": 0.2
+   },
+   {
+    "month": 9,
+    "meanMm": 289,
+    "heavyDaysPerYear": 1.5,
+    "probVeryHeavy": 0.3
+   },
+   {
+    "month": 10,
+    "meanMm": 216,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 11,
+    "meanMm": 62,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 11,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "ekiti": [
+   {
+    "month": 1,
+    "meanMm": 1,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 16,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 59,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 61,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 99,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 156,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 7,
+    "meanMm": 156,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 8,
+    "meanMm": 176,
+    "heavyDaysPerYear": 0.7,
+    "probVeryHeavy": 0.2
+   },
+   {
+    "month": 9,
+    "meanMm": 200,
+    "heavyDaysPerYear": 0.3,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 10,
+    "meanMm": 152,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 11,
+    "meanMm": 19,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 1,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "enugu": [
+   {
+    "month": 1,
+    "meanMm": 6,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 15,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 68,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 89,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 129,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 211,
+    "heavyDaysPerYear": 0.3,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 7,
+    "meanMm": 251,
+    "heavyDaysPerYear": 0.8,
+    "probVeryHeavy": 0.3
+   },
+   {
+    "month": 8,
+    "meanMm": 218,
+    "heavyDaysPerYear": 0.7,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 9,
+    "meanMm": 260,
+    "heavyDaysPerYear": 0.8,
+    "probVeryHeavy": 0.2
+   },
+   {
+    "month": 10,
+    "meanMm": 194,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 11,
+    "meanMm": 40,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 1,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "fct": [
+   {
+    "month": 1,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 6,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 18,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 22,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 85,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 137,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 7,
+    "meanMm": 196,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 8,
+    "meanMm": 250,
+    "heavyDaysPerYear": 0.9,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 9,
+    "meanMm": 206,
+    "heavyDaysPerYear": 0.5,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 10,
+    "meanMm": 106,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 11,
+    "meanMm": 4,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "gombe": [
+   {
+    "month": 1,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 6,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 24,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 68,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 7,
+    "meanMm": 121,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 8,
+    "meanMm": 193,
+    "heavyDaysPerYear": 0.9,
+    "probVeryHeavy": 0.2
+   },
+   {
+    "month": 9,
+    "meanMm": 101,
+    "heavyDaysPerYear": 0.3,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 10,
+    "meanMm": 31,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 11,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "imo": [
+   {
+    "month": 1,
+    "meanMm": 17,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 33,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 139,
+    "heavyDaysPerYear": 0.3,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 152,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 228,
+    "heavyDaysPerYear": 0.4,
+    "probVeryHeavy": 0.2
+   },
+   {
+    "month": 6,
+    "meanMm": 293,
+    "heavyDaysPerYear": 0.6,
+    "probVeryHeavy": 0.3
+   },
+   {
+    "month": 7,
+    "meanMm": 296,
+    "heavyDaysPerYear": 0.8,
+    "probVeryHeavy": 0.2
+   },
+   {
+    "month": 8,
+    "meanMm": 271,
+    "heavyDaysPerYear": 0.9,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 9,
+    "meanMm": 345,
+    "heavyDaysPerYear": 1.5,
+    "probVeryHeavy": 0.5
+   },
+   {
+    "month": 10,
+    "meanMm": 271,
+    "heavyDaysPerYear": 0.6,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 11,
+    "meanMm": 94,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 12,
+    "meanMm": 12,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "jigawa": [
+   {
+    "month": 1,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 1,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 8,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 66,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 7,
+    "meanMm": 139,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 8,
+    "meanMm": 223,
+    "heavyDaysPerYear": 1.1,
+    "probVeryHeavy": 0.2
+   },
+   {
+    "month": 9,
+    "meanMm": 111,
+    "heavyDaysPerYear": 0.5,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 10,
+    "meanMm": 13,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 11,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "kaduna": [
+   {
+    "month": 1,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 2,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 6,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 15,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 63,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 98,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 7,
+    "meanMm": 159,
+    "heavyDaysPerYear": 0.4,
+    "probVeryHeavy": 0.2
+   },
+   {
+    "month": 8,
+    "meanMm": 221,
+    "heavyDaysPerYear": 0.8,
+    "probVeryHeavy": 0.2
+   },
+   {
+    "month": 9,
+    "meanMm": 173,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 10,
+    "meanMm": 59,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 11,
+    "meanMm": 1,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "kano": [
+   {
+    "month": 1,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 1,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 11,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 68,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 7,
+    "meanMm": 124,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 8,
+    "meanMm": 221,
+    "heavyDaysPerYear": 0.8,
+    "probVeryHeavy": 0.2
+   },
+   {
+    "month": 9,
+    "meanMm": 120,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 10,
+    "meanMm": 17,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 11,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "katsina": [
+   {
+    "month": 1,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 1,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 8,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 49,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 7,
+    "meanMm": 91,
+    "heavyDaysPerYear": 0.3,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 8,
+    "meanMm": 193,
+    "heavyDaysPerYear": 0.9,
+    "probVeryHeavy": 0.3
+   },
+   {
+    "month": 9,
+    "meanMm": 100,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 10,
+    "meanMm": 10,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 11,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "kebbi": [
+   {
+    "month": 1,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 1,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 1,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 6,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 22,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 57,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 7,
+    "meanMm": 105,
+    "heavyDaysPerYear": 0.4,
+    "probVeryHeavy": 0.2
+   },
+   {
+    "month": 8,
+    "meanMm": 221,
+    "heavyDaysPerYear": 1.5,
+    "probVeryHeavy": 0.3
+   },
+   {
+    "month": 9,
+    "meanMm": 88,
+    "heavyDaysPerYear": 0.4,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 10,
+    "meanMm": 18,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 11,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "kogi": [
+   {
+    "month": 1,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 5,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 17,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 28,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 57,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 113,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 7,
+    "meanMm": 141,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 8,
+    "meanMm": 179,
+    "heavyDaysPerYear": 0.5,
+    "probVeryHeavy": 0.2
+   },
+   {
+    "month": 9,
+    "meanMm": 143,
+    "heavyDaysPerYear": 0.4,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 10,
+    "meanMm": 82,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 11,
+    "meanMm": 5,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "kwara": [
+   {
+    "month": 1,
+    "meanMm": 1,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 5,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 22,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 35,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 59,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 96,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 7,
+    "meanMm": 111,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 8,
+    "meanMm": 146,
+    "heavyDaysPerYear": 0.5,
+    "probVeryHeavy": 0.2
+   },
+   {
+    "month": 9,
+    "meanMm": 170,
+    "heavyDaysPerYear": 1,
+    "probVeryHeavy": 0.2
+   },
+   {
+    "month": 10,
+    "meanMm": 85,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 11,
+    "meanMm": 7,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "lagos": [
+   {
+    "month": 1,
+    "meanMm": 20,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 41,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 85,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 85,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 163,
+    "heavyDaysPerYear": 0.3,
+    "probVeryHeavy": 0.3
+   },
+   {
+    "month": 6,
+    "meanMm": 242,
+    "heavyDaysPerYear": 0.7,
+    "probVeryHeavy": 0.2
+   },
+   {
+    "month": 7,
+    "meanMm": 185,
+    "heavyDaysPerYear": 1.1,
+    "probVeryHeavy": 0.3
+   },
+   {
+    "month": 8,
+    "meanMm": 124,
+    "heavyDaysPerYear": 0.3,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 9,
+    "meanMm": 221,
+    "heavyDaysPerYear": 0.7,
+    "probVeryHeavy": 0.4
+   },
+   {
+    "month": 10,
+    "meanMm": 192,
+    "heavyDaysPerYear": 0.4,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 11,
+    "meanMm": 70,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 16,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "nasarawa": [
+   {
+    "month": 1,
+    "meanMm": 1,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 4,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 17,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 26,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 61,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 126,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 7,
+    "meanMm": 191,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 8,
+    "meanMm": 233,
+    "heavyDaysPerYear": 0.7,
+    "probVeryHeavy": 0.3
+   },
+   {
+    "month": 9,
+    "meanMm": 179,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 10,
+    "meanMm": 85,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 11,
+    "meanMm": 6,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "niger": [
+   {
+    "month": 1,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 3,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 7,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 15,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 52,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 93,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 7,
+    "meanMm": 168,
+    "heavyDaysPerYear": 0.4,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 8,
+    "meanMm": 262,
+    "heavyDaysPerYear": 1.3,
+    "probVeryHeavy": 0.4
+   },
+   {
+    "month": 9,
+    "meanMm": 185,
+    "heavyDaysPerYear": 0.7,
+    "probVeryHeavy": 0.2
+   },
+   {
+    "month": 10,
+    "meanMm": 66,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 11,
+    "meanMm": 4,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "ogun": [
+   {
+    "month": 1,
+    "meanMm": 12,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 21,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 60,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 63,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 103,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 167,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 7,
+    "meanMm": 143,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 8,
+    "meanMm": 147,
+    "heavyDaysPerYear": 0.4,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 9,
+    "meanMm": 171,
+    "heavyDaysPerYear": 0.4,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 10,
+    "meanMm": 124,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 11,
+    "meanMm": 23,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 5,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "ondo": [
+   {
+    "month": 1,
+    "meanMm": 3,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 18,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 67,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 73,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 122,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 184,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0.2
+   },
+   {
+    "month": 7,
+    "meanMm": 171,
+    "heavyDaysPerYear": 0.3,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 8,
+    "meanMm": 170,
+    "heavyDaysPerYear": 0.4,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 9,
+    "meanMm": 228,
+    "heavyDaysPerYear": 0.5,
+    "probVeryHeavy": 0.2
+   },
+   {
+    "month": 10,
+    "meanMm": 153,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 11,
+    "meanMm": 29,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 2,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "osun": [
+   {
+    "month": 1,
+    "meanMm": 3,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 15,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 60,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 53,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 81,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 144,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 7,
+    "meanMm": 141,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 8,
+    "meanMm": 164,
+    "heavyDaysPerYear": 0.5,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 9,
+    "meanMm": 200,
+    "heavyDaysPerYear": 0.6,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 10,
+    "meanMm": 143,
+    "heavyDaysPerYear": 0.3,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 11,
+    "meanMm": 23,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 1,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "oyo": [
+   {
+    "month": 1,
+    "meanMm": 5,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 18,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 58,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 61,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 99,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 191,
+    "heavyDaysPerYear": 0.4,
+    "probVeryHeavy": 0.3
+   },
+   {
+    "month": 7,
+    "meanMm": 165,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 8,
+    "meanMm": 221,
+    "heavyDaysPerYear": 0.7,
+    "probVeryHeavy": 0.4
+   },
+   {
+    "month": 9,
+    "meanMm": 199,
+    "heavyDaysPerYear": 0.3,
+    "probVeryHeavy": 0.2
+   },
+   {
+    "month": 10,
+    "meanMm": 143,
+    "heavyDaysPerYear": 0.4,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 11,
+    "meanMm": 22,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 3,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "plateau": [
+   {
+    "month": 1,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 4,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 7,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 34,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 125,
+    "heavyDaysPerYear": 0.3,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 180,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 7,
+    "meanMm": 241,
+    "heavyDaysPerYear": 0.4,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 8,
+    "meanMm": 234,
+    "heavyDaysPerYear": 0.7,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 9,
+    "meanMm": 186,
+    "heavyDaysPerYear": 0.3,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 10,
+    "meanMm": 52,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 11,
+    "meanMm": 2,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "rivers": [
+   {
+    "month": 1,
+    "meanMm": 31,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 53,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 173,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 173,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 234,
+    "heavyDaysPerYear": 0.4,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 318,
+    "heavyDaysPerYear": 1.2,
+    "probVeryHeavy": 0.5
+   },
+   {
+    "month": 7,
+    "meanMm": 291,
+    "heavyDaysPerYear": 1.4,
+    "probVeryHeavy": 0.4
+   },
+   {
+    "month": 8,
+    "meanMm": 288,
+    "heavyDaysPerYear": 1.3,
+    "probVeryHeavy": 0.3
+   },
+   {
+    "month": 9,
+    "meanMm": 346,
+    "heavyDaysPerYear": 1.7,
+    "probVeryHeavy": 0.4
+   },
+   {
+    "month": 10,
+    "meanMm": 302,
+    "heavyDaysPerYear": 0.6,
+    "probVeryHeavy": 0.2
+   },
+   {
+    "month": 11,
+    "meanMm": 146,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 31,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "sokoto": [
+   {
+    "month": 1,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 1,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 1,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 1,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 13,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 46,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 7,
+    "meanMm": 92,
+    "heavyDaysPerYear": 0.5,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 8,
+    "meanMm": 192,
+    "heavyDaysPerYear": 0.9,
+    "probVeryHeavy": 0.3
+   },
+   {
+    "month": 9,
+    "meanMm": 79,
+    "heavyDaysPerYear": 0.3,
+    "probVeryHeavy": 0.2
+   },
+   {
+    "month": 10,
+    "meanMm": 10,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 11,
+    "meanMm": 1,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "taraba": [
+   {
+    "month": 1,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 1,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 3,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 16,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 42,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 75,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0.1
+   },
+   {
+    "month": 7,
+    "meanMm": 132,
+    "heavyDaysPerYear": 0.3,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 8,
+    "meanMm": 213,
+    "heavyDaysPerYear": 0.6,
+    "probVeryHeavy": 0.3
+   },
+   {
+    "month": 9,
+    "meanMm": 150,
+    "heavyDaysPerYear": 0.7,
+    "probVeryHeavy": 0.2
+   },
+   {
+    "month": 10,
+    "meanMm": 59,
+    "heavyDaysPerYear": 0.1,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 11,
+    "meanMm": 3,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "yobe": [
+   {
+    "month": 1,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 1,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 8,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 48,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 7,
+    "meanMm": 100,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 8,
+    "meanMm": 196,
+    "heavyDaysPerYear": 0.6,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 9,
+    "meanMm": 94,
+    "heavyDaysPerYear": 0.2,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 10,
+    "meanMm": 22,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 11,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ],
+  "zamfara": [
+   {
+    "month": 1,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 2,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 3,
+    "meanMm": 1,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 4,
+    "meanMm": 2,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 5,
+    "meanMm": 22,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 6,
+    "meanMm": 68,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 7,
+    "meanMm": 113,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 8,
+    "meanMm": 198,
+    "heavyDaysPerYear": 0.8,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 9,
+    "meanMm": 138,
+    "heavyDaysPerYear": 0.3,
+    "probVeryHeavy": 0.2
+   },
+   {
+    "month": 10,
+    "meanMm": 28,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 11,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   },
+   {
+    "month": 12,
+    "meanMm": 0,
+    "heavyDaysPerYear": 0,
+    "probVeryHeavy": 0
+   }
+  ]
+ }
+}

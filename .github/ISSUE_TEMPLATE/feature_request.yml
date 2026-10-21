@@ -1,0 +1,26 @@
+name: Idea or feature request
+description: Suggest an improvement
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve, and for whom?
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What do you suggest?
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence or sources
+      description: For anything that changes who gets warned (thresholds, data sources), please link the data, record or study it is based on.
+  - type: checkboxes
+    id: help
+    attributes:
+      label: Can you help?
+      options:
+        - label: I can help build or test this
+        - label: I have data or contacts that would help (for example NiMet or NiHSA records)

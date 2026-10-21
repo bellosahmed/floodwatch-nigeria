@@ -1,0 +1,19 @@
+FloodWatch Nigeria
+Copyright 2026 FloodWatch Nigeria contributors
+
+The source code in this repository is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+The data files and data sources below are NOT covered by that licence. They keep their own licences and must be
+credited as described. The running site shows these credits in its footer; keep them if you deploy it.
+
+  Weather forecasts, river-flow forecasts and historical weather and river data
+    Open-Meteo.com (https://open-meteo.com), licensed CC BY 4.0. Underlying sources include ECMWF/Copernicus ERA5
+    reanalysis and the GloFAS river model. The free Open-Meteo API is for NON-COMMERCIAL use only
+    (https://open-meteo.com/en/terms): a commercial deployment needs their paid plan or another licensed source.
+    Derived files in data/: climatology.json, heat-climate.json, river-climate.json.
+
+  Local government (LGA) boundaries
+    geoBoundaries (https://www.geoboundaries.org), licensed CC BY 4.0, republishing GRID3 Nigeria LGA boundaries (2022).
+    Derived file in data/: lgas.json (a representative point inside each LGA, not the boundaries themselves).
+
+Third-party software dependencies are listed with their licences in docs/PACKAGES.md.
