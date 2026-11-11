@@ -30,7 +30,7 @@
     "eslint": "^9",
     "eslint-config-next": "^16.4.2",
     "tsx": "^4.23.15",
-    "typescript": "^5"
+    "typescript": "^7"
   },
   "description": "Free flood early-warning for Nigeria: forecasts confirmed by community reports and river gauges",
   "keywords": [
